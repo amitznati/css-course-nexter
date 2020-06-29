@@ -1,0 +1,14 @@
+{
+  "name": "Brand-it",
+  "version": "1.0.0",
+  "description": "Brand-it web page",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Amit Znati",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
