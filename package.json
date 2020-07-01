@@ -4,7 +4,8 @@
   "description": "Brand-it web page",
   "main": "index.js",
   "scripts": {
-    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+    "watch:sass": "node-sass sass/main.scss css/style.css -w",
+    "comp:sass": "node-sass sass/main.scss css/style.css"
   },
   "author": "Amit Znati",
   "license": "ISC",
